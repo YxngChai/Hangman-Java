@@ -98,5 +98,3 @@ silent
 bright
 ancient
 modern
-ranara
-valentin
