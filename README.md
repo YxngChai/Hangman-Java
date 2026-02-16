@@ -49,4 +49,4 @@ The game keeps track of total wins and total games played.
 -	Remove guessed word from list after win
 -	Add menu system
 -   Add option for user to add their own words to the game
--	Convert to GUI version (JavaFX or Swing)
+-	Convert to GUI version (JavaFX or Swing) 
