@@ -57,7 +57,7 @@ public class Main {
                 }
                 System.out.println(updatedWord);
                 System.out.printf("Already tried: %s.\n", letters);
-                System.out.println("\nPick a letter: ");
+                System.out.printf("\nPick a letter: ");
                 char guess = scanner.next().toUpperCase().charAt(0);
                 letters.add(guess);
 
@@ -197,4 +197,5 @@ public class Main {
 // limit user entry to one character
 // remove word from loaded list once someone wins and finds the word
 // Add a difficulty level with different word length
+// Create a list of theme
 // add a menu where you can add words to the list
